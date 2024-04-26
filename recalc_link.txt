@@ -1,2 +1,7 @@
 Mechanical tool calculator collection link:
 https://www.reca.lc/
+
+Belt Calculator:
+https://www.reca.lc/belts
+Change Pitch, Target center, and the teeth on pully one and two, based on the desired belt length and belt type. The calculator will provide the number of teeth required and the closest possible obptions to buy.
+Given you have a specific belt for an application, check, "Use Specific Belt" and change teeth on pully one and two. This will provide a recommended pully distance
